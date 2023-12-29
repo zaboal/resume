@@ -44,12 +44,12 @@
             "keywords": ["Inkscape", "KDENlive", "TGStat", "ComBot"]
         },
         {
-            "name": "Интеграция GitLab & Discord",
-            "url": "https://git.cringetech.net/zba/discord-gitlab",
-            "description": "200 строк кода",
+            "name": "discord-gitlab",
+            "url": "https://git.cringetech.net/zba/",
+            "description": "Интеграция GitLab и Discord",
             "startDate": "2023-04-03",
             "endDate": "2023-04-19",
-            "highlights": ["Создание Issues в репозитории", "Сериализация БД"],
+            "highlights": ["Создание Issues в репозитории", "Сериализация БД", "200 SLOC"],
             "keywords": ["discord.py", "pyhon-gitlab", "msgpack", "yarl", "dataclasses"],
             "type": "application",
             "roles": ["Менеджер", "Разработчик"]
