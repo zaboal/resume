@@ -35,10 +35,11 @@
     ],
     "projects": [
         {
-            "name": "Личный Telegram-холдинг",
+            "name": "спо ⁃ дизайн ⁃ письмо",
             "url": "https://zbaadv.t.me",
+            "description": "Личный медиалхолдинг",
             "startDate": "2023-04",
-            "highlights": ["200 участников"],
+            "highlights": ["250 участников"],
             "roles": ["Менеджер", "Дизайнер", "Копирайтер"],
             "keywords": ["Inkscape", "KDENlive", "TGStat", "ComBot"]
         },
