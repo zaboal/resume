@@ -1,0 +1,59 @@
+{
+    "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+    "basics": {
+        "name": "Зажигин Богдан Алексеевич",
+        "label": "СММ-менеджер",
+        "email": "za.boal@ya.ru",
+        "phone": "8 992 195-51-27",
+        "location": {
+            "address": "Авиаконструкторов, 2",
+            "city": "Санкт-Петербург",
+            "region": "СПб и ЛО",
+            "countryCode": "RU",
+            "postalCode": "197373"
+        },
+        "profiles": [
+            {
+                "network": "Телеграм",
+                "url": "https://zaboal.t.me"
+            },
+            {
+                "network": "Матрикс",
+                "url": "https://matrix.to/#/@z:envs.net"
+            },
+            {
+                "network": "ВКонтакте",
+                "url": "https://vk.me/zaboal"
+            },
+            {
+                "network": "ГитХаб",
+                "url": "https://github.com/zaboal"
+            },
+            {
+                "network": "Дискорд",
+                "url": "https://discord.com/users/1024406341726515332"
+            }
+        ]
+    },
+    "languages": [
+        {
+            "language": "Русский",
+            "fluency": "родной"
+        },
+        {
+            "language": "Английский",
+            "fluency": "хорошо читаю"
+        }
+    ],
+    "projects": [
+        {
+            "name": "Личный телеграм холдинг",
+            "startDate": "2023-04",
+            "url": "https://zbaadv.t.me"
+        }
+    ],
+    "meta": {
+        "canonical": "https://gist.github.com/zaboal/1ed33e702e8b0ee694afef56234f513a",
+        "lastModified": "2024-01"
+    }
+}
