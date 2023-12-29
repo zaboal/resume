@@ -2,7 +2,7 @@
     "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
     "basics": {
         "name": "Зажигин Богдан Алексеевич",
-        "label": "SMM-&-DevOps-менеджер",
+        "label": "DevOps-&-SMM-менеджер",
         "email": "za.boal@ya.ru",
         "phone": "8 992 195-51-27",
         "location": {
@@ -60,6 +60,11 @@
         "name": "Agile и Scrum",
         "issuer": "Coursera с IBM",
         "date": "2022-04-20"
+    },
+    {
+        "url": "https://www.coursera.org/account/accomplishments/verify/M3CBR8BYAT55",
+        "name": "Test and Behavior Driven Development",
+        "date": "2022-06-08"
     }],
     "meta": {
         "canonical": "https://gist.github.com/zaboal/1ed33e702e8b0ee694afef56234f513a",
