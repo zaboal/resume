@@ -14,24 +14,12 @@
         },
         "profiles": [
             {
-                "network": "Телеграм",
+                "network": "Telegram",
                 "url": "https://zaboal.t.me"
             },
             {
-                "network": "Матрикс",
-                "url": "https://matrix.to/#/@z:envs.net"
-            },
-            {
-                "network": "ВКонтакте",
-                "url": "https://vk.me/zaboal"
-            },
-            {
-                "network": "ГитХаб",
-                "url": "https://github.com/zaboal"
-            },
-            {
-                "network": "Дискорд",
-                "url": "https://discord.com/users/1024406341726515332"
+                "network": "Git",
+                "url": "https://git.cringetech.net/zaboal"
             }
         ]
     },
@@ -47,13 +35,20 @@
     ],
     "projects": [
         {
-            "name": "Личный телеграм холдинг",
+            "name": "Личный Telegram-холдинг",
             "startDate": "2023-04",
             "url": "https://zbaadv.t.me"
+        },
+        {
+            "name": "Интеграция GitLab & Discord",
+            "url": "https://git.cringetech.net/zba/discord-gitlab",
+            "startDate": "2023-04-03",
+            "endDate": "2023-04-19"
         }
     ],
     "meta": {
         "canonical": "https://gist.github.com/zaboal/1ed33e702e8b0ee694afef56234f513a",
-        "lastModified": "2024-01"
+        "lastModified": "2024-01",
+        "theme": "onepage-plus"
     }
 }
