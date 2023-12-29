@@ -36,8 +36,11 @@
     "projects": [
         {
             "name": "Личный Telegram-холдинг",
+            "url": "https://zbaadv.t.me",
             "startDate": "2023-04",
-            "url": "https://zbaadv.t.me"
+            "highlights": ["200 участников"],
+            "roles": ["Менеджер", "Дизайнер", "Копирайтер"],
+            "keywords": ["Inkscape", "KDENlive", "TGStat", "ComBot"]
         },
         {
             "name": "Интеграция GitLab & Discord",
