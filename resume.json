@@ -41,7 +41,7 @@
             "startDate": "2023-04",
             "highlights": ["250 участников"],
             "roles": ["Менеджер", "Дизайнер", "Копирайтер"],
-            "keywords": ["Inkscape", "KDENlive", "TGStat", "ComBot"]
+            "keywords": ["Inkscape", "KDENlive", "TGStat", "ComBot", "Telegram", "Discord", "Matrix"]
         },
         {
             "name": "discord-gitlab",
@@ -63,7 +63,8 @@
     },
     {
         "url": "https://www.coursera.org/account/accomplishments/verify/M3CBR8BYAT55",
-        "name": "Test and Behavior Driven Development",
+        "name": "BDD и TDD",
+        "issuer": "Coursera с IBM",
         "date": "2022-06-08"
     }],
     "meta": {
