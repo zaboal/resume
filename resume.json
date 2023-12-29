@@ -42,8 +42,11 @@
         {
             "name": "Интеграция GitLab & Discord",
             "url": "https://git.cringetech.net/zba/discord-gitlab",
+            "description": "200 строк кода",
             "startDate": "2023-04-03",
-            "endDate": "2023-04-19"
+            "endDate": "2023-04-19",
+            "highlights": ["Создание Issues в репозитории", "Сериализация БД"],
+            "keywords": ["discord.py", "pyhon-gitlab", "msgpack", "yarl", "dataclasses"]
         }
     ],
     "meta": {
