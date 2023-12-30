@@ -57,19 +57,19 @@
     ],
     "certificates": [{
         "url": "https://www.coursera.org/account/accomplishments/verify/2C9K8KF5N9A2",
-        "name": "Agile и Scrum",
-        "issuer": "Coursera и IBM",
+        "name": "Introduction to Agile Development and Scrum",
+        "issuer": "IBM",
         "date": "2022-04-20"
     },
     {
         "url": "https://www.coursera.org/account/accomplishments/verify/M3CBR8BYAT55",
-        "name": "BDD и TDD",
-        "issuer": "Coursera и IBM",
+        "name": "Introduction to Test and Behavior Driven Development",
+        "issuer": "IBM",
         "date": "2022-06-08"
     },
     {
         "url": "https://www.coursera.org/account/accomplishments/verify/RWMPE4WCAVFN",
-        "name": "DevOps",
+        "name": "Introduction to DevOps",
         "issuer": "Coursera и IBM",
         "date": "2022-02-26"
     }],
