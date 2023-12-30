@@ -78,7 +78,7 @@
             "endDate": "2023-05-22",
             "highlights": [
                 "Сериализация БД",
-                "200 SLOC"
+                "500 SLOC"
             ],
             "keywords": [
                 "discord.py",
