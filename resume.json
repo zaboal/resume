@@ -17,17 +17,22 @@
             {
                 "network": "Git",
                 "url": "https://git.cringetech.net/zaboal",
-                "username": "z@cringetech.net"
+                "username": "zba@cringetech.net"
             },
             {
                 "network": "Telegram",
-                "url": "https://zaboal.t.me",
+                "url": "https://t.me/zaboal",
                 "username": "zaboal"
             },
             {
                 "network": "Matrix",
                 "url": "https://matrix.to/#/@z:envs.net",
-                "username": "z:envs.net"
+                "username": "z@envs.net"
+            },
+            {
+                "network": "Mastadon",
+                "url": "https://mstdn.business/@z",
+                "username": "z@mstdn.business"
             }
         ]
     },
