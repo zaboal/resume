@@ -21,7 +21,7 @@
             },
             {
                 "network": "Git",
-                "url": "https://git.cringetech.net/zaboal",
+                "url": "https://git.cringetech.net/z",
                 "username": "zba@cringetech.net"
             },
             {
@@ -72,7 +72,7 @@
         },
         {
             "name": "discord-gitlab и discord-telegraph",
-            "url": "https://git.cringetech.net/zba/",
+            "url": "https://git.cringetech.net/z?q=discord-",
             "description": "Создавалка Issues на GitLab и регистратор на блог-платформе Telegraph через Discord",
             "startDate": "2023-04-03",
             "endDate": "2023-05-22",
