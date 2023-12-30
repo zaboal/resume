@@ -144,6 +144,14 @@
             ]
         },
         {
+            "name": "Техническое писательство",
+            "level": "Beginner",
+            "keywords": [
+                "AsciiDoc & Markdown",
+                "Gherkin"
+            ]
+        },
+        {
             "name": "Продвижение в социальных медиа",
             "level": "Intermediate",
             "keywords": [
