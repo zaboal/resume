@@ -58,14 +58,20 @@
     "certificates": [{
         "url": "https://www.coursera.org/account/accomplishments/verify/2C9K8KF5N9A2",
         "name": "Agile и Scrum",
-        "issuer": "Coursera с IBM",
+        "issuer": "Coursera и IBM",
         "date": "2022-04-20"
     },
     {
         "url": "https://www.coursera.org/account/accomplishments/verify/M3CBR8BYAT55",
         "name": "BDD и TDD",
-        "issuer": "Coursera с IBM",
+        "issuer": "Coursera и IBM",
         "date": "2022-06-08"
+    },
+    {
+        "url": "https://www.coursera.org/account/accomplishments/verify/RWMPE4WCAVFN",
+        "name": "DevOps",
+        "issuer": "Coursera и IBM",
+        "date": "2022-02-26"
     }],
     "meta": {
         "canonical": "https://gist.github.com/zaboal/1ed33e702e8b0ee694afef56234f513a",
