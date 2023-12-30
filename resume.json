@@ -148,7 +148,10 @@
             "level": "Beginner",
             "keywords": [
                 "AsciiDoc & Markdown",
-                "Gherkin"
+                "Gherkin",
+                "XSLT",
+                "XHTML",
+                "CSS"
             ]
         },
         {
