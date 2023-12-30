@@ -9,6 +9,7 @@
         "name": "Зажигин Богдан Алексеевич",
         "image": "https://avatars.githubusercontent.com/u/62572404?v=4",
         "label": "ИТ-менеджер",
+        "summary": "Более 8 лет пользуюсь линуксом, с ним влюбился в СПО, модулизм и федерализм. Предпочитаю Go.",
         "email": "za.boal@ya.ru",
         "phone": "8 992 195-51-27",
         "location": {
@@ -177,10 +178,10 @@
             "roles": [
                 "менеджер",
                 "разработчик"
-            ]
+            ]   
         },
         {
-            "name": "bot-telegram_profile + database-schema_organization",
+            "name": "bot-telegram_profile и database-schema_organization",
             "url": "https://git.cringetech.net/z/bot-telegram_profile",
             "description": "Бот в Telegram личного кабинета условной организационной структуры",
             "startDate": "2022-11-23",
