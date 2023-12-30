@@ -56,6 +56,11 @@
             "roles": ["Менеджер", "Разработчик"]
         }
     ],
+    "skills": [{
+        "name": "Разработка чат-ботов",
+        "level": "Middle",
+        "keywords": ["Discord", "Telegram", "Golang"]
+    }],
     "certificates": [{
         "url": "https://www.coursera.org/account/accomplishments/verify/2C9K8KF5N9A2",
         "name": "Introduction to Agile Development and Scrum",
@@ -75,8 +80,8 @@
         "date": "2022-02-26"
     }],
     "meta": {
-        "canonical": "https://gist.github.com/zaboal/1ed33e702e8b0ee694afef56234f513a",
+        "canonical": "https://github.com/zaboal/resume",
         "lastModified": "2024-01",
-        "theme": "macchiato"
+        "theme": "stackoverflow"
     }
 }
