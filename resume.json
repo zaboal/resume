@@ -27,11 +27,11 @@
     "languages": [
         {
             "language": "Русский",
-            "fluency": "родной"
+            "fluency": "Master"
         },
         {
             "language": "Английский",
-            "fluency": "хорошо читаю"
+            "fluency": "Intermediate"
         }
     ],
     "projects": [
@@ -58,7 +58,7 @@
     ],
     "skills": [{
         "name": "Разработка чат-ботов",
-        "level": "Middle",
+        "level": "Advanced",
         "keywords": ["Discord", "Telegram", "Golang"]
     }],
     "certificates": [{
