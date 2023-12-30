@@ -113,7 +113,7 @@
     ],
     "skills": [
         {
-            "name": "Разработка чат-ботов и администрирование",
+            "name": "Разработка чат-ботов",
             "level": "Advanced",
             "keywords": [
                 "Discord",
@@ -123,6 +123,14 @@
                 "Python"
             ]
         },
+        {
+            "name": "Системное администрирование",
+            "level": "Intermediate",
+            "keywords": [
+                "Debian",
+                "Docker"
+            ]
+        }
         {
             "name": "Продвижение в социальных медиа",
             "level": "Intermediate",
