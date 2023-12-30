@@ -70,14 +70,18 @@
                 "Debian",
                 "Docker",
                 "CI/CD",
-                "NGinx"
+                "NGinx",
+                "Bash",
+                "Matterbridge",
+                "MediaWiki"
             ]
         },
         {
             "name": "Техписательство",
             "level": "Beginner",
             "keywords": [
-                "AsciiDoc & Markdown",
+                "AsciiDoc",
+                "Markdown",
                 "Gherkin",
                 "XSLT",
                 "XHTML",
