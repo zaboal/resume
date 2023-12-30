@@ -3,7 +3,7 @@
     "basics": {
         "name": "Зажигин Богдан Алексеевич",
         "image": "https://avatars.githubusercontent.com/u/62572404?v=4",
-        "label": "SMM-менеджер",
+        "label": "ИТ-менеджер",
         "email": "za.boal@ya.ru",
         "phone": "8 992 195-51-27",
         "location": {
@@ -131,7 +131,7 @@
             ]
         },
         {
-            "name": "Системное администрирование",
+            "name": "Администрирование",
             "level": "Intermediate",
             "keywords": [
                 "Debian",
@@ -143,7 +143,7 @@
             ]
         },
         {
-            "name": "Техническое писательство",
+            "name": "Техписательство",
             "level": "Beginner",
             "keywords": [
                 "AsciiDoc & Markdown",
@@ -154,7 +154,7 @@
             ]
         },
         {
-            "name": "Продвижение в социальных медиа",
+            "name": "Продвижение",
             "level": "Intermediate",
             "keywords": [
                 "SEO-оптимизация",
