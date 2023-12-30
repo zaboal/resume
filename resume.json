@@ -40,9 +40,23 @@
             "url": "https://zbaadv.t.me",
             "description": "Личный медиалхолдинг",
             "startDate": "2023-04",
-            "highlights": ["250 участников"],
-            "roles": ["Менеджер", "Дизайнер", "Копирайтер"],
-            "keywords": ["Inkscape", "KDENlive", "TGStat", "ComBot", "Telegram", "Discord", "Matrix"]
+            "highlights": [
+                "250 участников"
+            ],
+            "roles": [
+                "Менеджер",
+                "Дизайнер",
+                "Копирайтер"
+            ],
+            "keywords": [
+                "Inkscape",
+                "KDENlive",
+                "TGStat",
+                "ComBot",
+                "Telegram",
+                "Discord",
+                "Matrix"
+            ]
         },
         {
             "name": "discord-gitlab",
@@ -50,35 +64,71 @@
             "description": "Интеграция GitLab и Discord",
             "startDate": "2023-04-03",
             "endDate": "2023-04-19",
-            "highlights": ["Создание Issues в репозитории", "Сериализация БД", "200 SLOC"],
-            "keywords": ["discord.py", "pyhon-gitlab", "msgpack", "yarl", "dataclasses"],
+            "highlights": [
+                "Создание Issues в репозитории",
+                "Сериализация БД",
+                "200 SLOC"
+            ],
+            "keywords": [
+                "discord.py",
+                "pyhon-gitlab",
+                "msgpack",
+                "yarl",
+                "dataclasses"
+            ],
             "type": "application",
-            "roles": ["Менеджер", "Разработчик"]
+            "roles": [
+                "Менеджер",
+                "Разработчик"
+            ]
         }
     ],
-    "skills": [{
-        "name": "Разработка чат-ботов",
-        "level": "Advanced",
-        "keywords": ["Discord", "Telegram", "Golang"]
-    }],
-    "certificates": [{
-        "url": "https://www.coursera.org/account/accomplishments/verify/2C9K8KF5N9A2",
-        "name": "Introduction to Agile Development and Scrum",
-        "issuer": "IBM",
-        "date": "2022-04-20"
-    },
-    {
-        "url": "https://www.coursera.org/account/accomplishments/verify/M3CBR8BYAT55",
-        "name": "Introduction to Test and Behavior Driven Development",
-        "issuer": "IBM",
-        "date": "2022-06-08"
-    },
-    {
-        "url": "https://www.coursera.org/account/accomplishments/verify/RWMPE4WCAVFN",
-        "name": "Introduction to DevOps",
-        "issuer": "IBM",
-        "date": "2022-02-26"
-    }],
+    "skills": [
+        {
+            "name": "Разработка чат-ботов и администрирование",
+            "level": "Advanced",
+            "keywords": [
+                "Discord",
+                "Telegram",
+                "Matrix",
+                "Golang",
+                "Python"
+            ]
+        },
+        {
+            "name": "SMM",
+            "level": "Intermediate",
+            "keywords": [
+                "SEO-оптимизация",
+                "партнёрство"
+            ]
+        },
+        {
+            "name": "Дизайн",
+            "level": "Intermediate",
+            "keywords": ["логотипы", "обложки"]
+        }
+    ],
+    "certificates": [
+        {
+            "url": "https://www.coursera.org/account/accomplishments/verify/2C9K8KF5N9A2",
+            "name": "Introduction to Agile Development and Scrum",
+            "issuer": "IBM",
+            "date": "2022-04-20"
+        },
+        {
+            "url": "https://www.coursera.org/account/accomplishments/verify/M3CBR8BYAT55",
+            "name": "Introduction to Test and Behavior Driven Development",
+            "issuer": "IBM",
+            "date": "2022-06-08"
+        },
+        {
+            "url": "https://www.coursera.org/account/accomplishments/verify/RWMPE4WCAVFN",
+            "name": "Introduction to DevOps",
+            "issuer": "IBM",
+            "date": "2022-02-26"
+        }
+    ],
     "meta": {
         "canonical": "https://github.com/zaboal/resume",
         "lastModified": "2024-01",
