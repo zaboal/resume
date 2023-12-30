@@ -71,11 +71,11 @@
             ]
         },
         {
-            "name": "discord-gitlab",
+            "name": "discord-gitlab и discord-telegraph",
             "url": "https://git.cringetech.net/zba/",
-            "description": "Создавалка Issues на GitLab через Discord",
+            "description": "Создавалка Issues на GitLab и регистратор на блог-платформе Telegraph через Discord",
             "startDate": "2023-04-03",
-            "endDate": "2023-04-19",
+            "endDate": "2023-05-22",
             "highlights": [
                 "Сериализация БД",
                 "200 SLOC"
@@ -85,7 +85,9 @@
                 "pyhon-gitlab",
                 "msgpack",
                 "yarl",
-                "dataclasses"
+                "dataclasses",
+                "telegraph-go",
+                "discordgo"
             ],
             "type": "application",
             "roles": [
