@@ -96,7 +96,7 @@
             ]
         },
         {
-            "name": "SMM",
+            "name": "продвижение в социальных медиа",
             "level": "Intermediate",
             "keywords": [
                 "SEO-оптимизация",
@@ -104,9 +104,9 @@
             ]
         },
         {
-            "name": "Дизайн",
+            "name": "Графический дизайн",
             "level": "Intermediate",
-            "keywords": ["логотипы", "обложки"]
+            "keywords": ["Inkscape", "KDENlive", "анимированные лого каналов", "иллюстрация постов"]
         }
     ],
     "certificates": [
