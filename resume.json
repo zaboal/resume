@@ -3,7 +3,7 @@
     "basics": {
         "name": "Зажигин Богдан Алексеевич",
         "image": "https://avatars.githubusercontent.com/u/62572404?v=4",
-        "label": "ИТ-менеджер",
+        "label": "SMM-менеджер",
         "email": "za.boal@ya.ru",
         "phone": "8 992 195-51-27",
         "location": {
@@ -57,7 +57,7 @@
                 "администрирую мост между Telegram, Discord и Matrix комнатами",
                 "для каждого чата планирую писсивную стратегию", 
                 "подбираю наикратчайшую ссылку-аббревиатуру",
-                "делаю анимированные логотипы в Inkscape и Kdenlive",
+                "делаю анимированные логотипы в Inkscape и KDENLiVE",
                 "аффиалирую чаты знакомых"
             ],
             "roles": [
@@ -68,7 +68,7 @@
             ],
             "keywords": [
                 "Inkscape",
-                "KDENlive",
+                "KDENLiVE",
                 "TGStat",
                 "ComBot",
                 "Matterbridge",
@@ -134,7 +134,7 @@
         {
             "name": "Графический дизайн",
             "level": "Intermediate",
-            "keywords": ["Inkscape", "KDENlive", "анимированные лого каналов", "иллюстрация постов"]
+            "keywords": ["Inkscape", "KDENLiVE", "анимированные лого каналов", "иллюстрация постов"]
         }
     ],
     "certificates": [
