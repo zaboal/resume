@@ -15,14 +15,14 @@
         },
         "profiles": [
             {
-                "network": "Git",
-                "url": "https://git.cringetech.net/zaboal",
-                "username": "zba@cringetech.net"
-            },
-            {
                 "network": "Telegram",
                 "url": "https://t.me/zaboal",
                 "username": "zaboal"
+            },
+            {
+                "network": "Git",
+                "url": "https://git.cringetech.net/zaboal",
+                "username": "zba@cringetech.net"
             },
             {
                 "network": "Matrix",
