@@ -98,7 +98,7 @@
         {
             "name": "bot-telegram_profile",
             "url": "https://git.cringetech.net/z/bot-telegram_profile",
-            "description": "ЛК-Бот отдела условной организационной структуры",
+            "description": "ЛК-Бот условной организационной структуры",
             "startDate": "2022-11-23",
             "endDate": "2022-12-21",
             "keywords": ["sqlite3", "grammy"]
