@@ -1,5 +1,10 @@
 {
     "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+    "meta": {
+        "canonical": "https://github.com/zaboal/resume",
+        "lastModified": "2024-01",
+        "theme": "stackoverflow"
+    },
     "basics": {
         "name": "Зажигин Богдан Алексеевич",
         "image": "https://avatars.githubusercontent.com/u/62572404?v=4",
@@ -43,6 +48,79 @@
         {
             "language": "Английский",
             "fluency": "Intermediate"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Разработка чат-ботов",
+            "level": "Advanced",
+            "keywords": [
+                "Discord",
+                "Telegram",
+                "Matrix",
+                "Golang",
+                "Python",
+                "TypeScript"
+            ]
+        },
+        {
+            "name": "Администрирование",
+            "level": "Intermediate",
+            "keywords": [
+                "Debian",
+                "Docker",
+                "CI/CD",
+                "NGinx"
+            ]
+        },
+        {
+            "name": "Техписательство",
+            "level": "Beginner",
+            "keywords": [
+                "AsciiDoc & Markdown",
+                "Gherkin",
+                "XSLT",
+                "XHTML",
+                "CSS"
+            ]
+        },
+        {
+            "name": "Продвижение",
+            "level": "Intermediate",
+            "keywords": [
+                "Social Messangers Marketing",
+                "SEO",
+                "контент-планирование"
+            ]
+        },
+        {
+            "name": "Графический дизайн",
+            "level": "Intermediate",
+            "keywords": [
+                "Inkscape",
+                "анимированные лого",
+                "иллюстрирование текста"
+            ]
+        }
+    ],
+    "certificates": [
+        {
+            "url": "https://www.coursera.org/account/accomplishments/verify/2C9K8KF5N9A2",
+            "name": "Introduction to Agile Development and Scrum",
+            "issuer": "IBM",
+            "date": "2022-04-20"
+        },
+        {
+            "url": "https://www.coursera.org/account/accomplishments/verify/M3CBR8BYAT55",
+            "name": "Introduction to Test and Behavior Driven Development",
+            "issuer": "IBM",
+            "date": "2022-06-08"
+        },
+        {
+            "url": "https://www.coursera.org/account/accomplishments/verify/RWMPE4WCAVFN",
+            "name": "Introduction to DevOps",
+            "issuer": "IBM",
+            "date": "2022-02-26"
         }
     ],
     "projects": [
@@ -116,86 +194,5 @@
                 "bash"
             ]
         }
-    ],
-    "skills": [
-        {
-            "name": "Разработка чат-ботов",
-            "level": "Advanced",
-            "keywords": [
-                "Discord",
-                "Telegram",
-                "Matrix",
-                "Golang",
-                "Python",
-                "TypeScript"
-            ]
-        },
-        {
-            "name": "Администрирование",
-            "level": "Intermediate",
-            "keywords": [
-                "Debian",
-                "OpenSuse",
-                "Docker",
-                "CI/CD",
-                "NGinx",
-                "Cloudflare"
-            ]
-        },
-        {
-            "name": "Техписательство",
-            "level": "Beginner",
-            "keywords": [
-                "AsciiDoc & Markdown",
-                "Gherkin",
-                "XSLT",
-                "XHTML",
-                "CSS"
-            ]
-        },
-        {
-            "name": "Продвижение",
-            "level": "Intermediate",
-            "keywords": [
-                "Social Messangers Marketing",
-                "SEO-оптимизация",
-                "контент-планирование"
-            ]
-        },
-        {
-            "name": "Графический дизайн",
-            "level": "Intermediate",
-            "keywords": [
-                "Inkscape",
-                "KDENLiVE",
-                "анимированные лого",
-                "иллюстрирование текста"
-            ]
-        }
-    ],
-    "certificates": [
-        {
-            "url": "https://www.coursera.org/account/accomplishments/verify/2C9K8KF5N9A2",
-            "name": "Introduction to Agile Development and Scrum",
-            "issuer": "IBM",
-            "date": "2022-04-20"
-        },
-        {
-            "url": "https://www.coursera.org/account/accomplishments/verify/M3CBR8BYAT55",
-            "name": "Introduction to Test and Behavior Driven Development",
-            "issuer": "IBM",
-            "date": "2022-06-08"
-        },
-        {
-            "url": "https://www.coursera.org/account/accomplishments/verify/RWMPE4WCAVFN",
-            "name": "Introduction to DevOps",
-            "issuer": "IBM",
-            "date": "2022-02-26"
-        }
-    ],
-    "meta": {
-        "canonical": "https://github.com/zaboal/resume",
-        "lastModified": "2024-01",
-        "theme": "stackoverflow"
-    }
+    ]
 }
