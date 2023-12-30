@@ -77,8 +77,7 @@
             "startDate": "2023-04-03",
             "endDate": "2023-05-22",
             "highlights": [
-                "Сериализация БД",
-                "500 SLOC"
+                "Около 500 строк кода"
             ],
             "keywords": [
                 "discord.py",
@@ -98,10 +97,11 @@
         {
             "name": "bot-telegram_profile + database-schema_organization",
             "url": "https://git.cringetech.net/z/bot-telegram_profile",
-            "description": "ЛК-Бот условной организационной структуры",
+            "description": "Бот в Telegram личного кабинета условной организационной структуры",
             "startDate": "2022-11-23",
             "endDate": "2022-12-21",
-            "keywords": ["sqlite3", "grammy"]
+            "highlights": ["Около 300 строк кода"],
+            "keywords": ["sqlite3", "grammy", "docker", "bash"]
         }
     ],
     "skills": [
