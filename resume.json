@@ -41,7 +41,7 @@
             "description": "Личный медиалхолдинг",
             "startDate": "2023-04",
             "highlights": [
-                "250 участников"
+                "Вещаю суммарно на 250 участников"
             ],
             "roles": [
                 "Менеджер",
@@ -61,11 +61,10 @@
         {
             "name": "discord-gitlab",
             "url": "https://git.cringetech.net/zba/",
-            "description": "Интеграция GitLab и Discord",
+            "description": "Создавалка Issues на GitLab через Discord",
             "startDate": "2023-04-03",
             "endDate": "2023-04-19",
             "highlights": [
-                "Создание Issues в репозитории",
                 "Сериализация БД",
                 "200 SLOC"
             ],
@@ -85,7 +84,7 @@
     ],
     "skills": [
         {
-            "name": "Разработка ботов и администрирование чатов",
+            "name": "Разработка чат-ботов и администрирование",
             "level": "Advanced",
             "keywords": [
                 "Discord",
@@ -96,7 +95,7 @@
             ]
         },
         {
-            "name": "продвижение в социальных медиа",
+            "name": "Продвижение в социальных медиа",
             "level": "Intermediate",
             "keywords": [
                 "SEO-оптимизация",
