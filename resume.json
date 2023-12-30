@@ -7,9 +7,8 @@
         "email": "za.boal@ya.ru",
         "phone": "8 992 195-51-27",
         "location": {
-            "address": "Авиаконструкторов, 2",
+            "address": "Фрунзенская",
             "city": "Санкт-Петербург",
-            "region": "СПб и ЛО",
             "countryCode": "RU",
             "postalCode": "197373"
         },
@@ -136,6 +135,7 @@
             "level": "Intermediate",
             "keywords": [
                 "Debian",
+                "OpenSuse",
                 "Docker",
                 "CI/CD",
                 "NGinx",
