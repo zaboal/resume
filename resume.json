@@ -173,15 +173,5 @@
                 "bash"
             ]
         }
-    ],
-    "references": [
-        {
-            "name": "cxdev",
-            "reference": "норм"
-        },
-        {
-            "name": "hisumia",
-            "reference": "теперь активно отклики раскидывай на вакухи"
-        }
     ]
 }
