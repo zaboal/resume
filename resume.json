@@ -149,7 +149,7 @@
         {
             "name": "discord-gitlab и discord-telegraph",
             "url": "https://git.cringetech.net/z?q=discord-",
-            "description": "Создавалка Issues на GitLab и регистратор на блог-платформе Telegraph через Discord",
+            "description": "Создавалка Issues на GitLab и регистратор на блог-платформе Telegraph в Discord",
             "startDate": "2023-04-03",
             "endDate": "2023-05-22",
             "highlights": [
@@ -173,7 +173,7 @@
         {
             "name": "bot-telegram_profile и database-schema_organization",
             "url": "https://git.cringetech.net/z/bot-telegram_profile",
-            "description": "Бот в Telegram личного кабинета условной организационной структуры",
+            "description": "Личный кабинет условной орг. структуры в Telegram",
             "startDate": "2022-11-23",
             "endDate": "2022-12-21",
             "highlights": [
