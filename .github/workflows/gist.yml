@@ -14,4 +14,4 @@ jobs:
       with:
         token: ${{ secrets.TOKEN }}
         gist_id: ${{ vars.ID }}
-        file_path: resume.yaml
+        file_path: resume.json
