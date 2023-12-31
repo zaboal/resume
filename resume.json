@@ -87,6 +87,12 @@
             ]
         }
     ],
+    "interests": [
+        {
+            "name": "Криптовалюта",
+            "keywords": ["TON", "Polygon"]
+        }
+    ],
     "certificates": [
         {
             "url": "https://www.coursera.org/account/accomplishments/verify/2C9K8KF5N9A2",
