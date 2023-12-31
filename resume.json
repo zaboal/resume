@@ -68,10 +68,10 @@
                 "Debian",
                 "Docker",
                 "CI/CD",
-                "Nginx",
                 "Bash",
-                "Matterbridge",
-                "MediaWiki"
+                "Nginx",
+                "LigthHTTPD",
+                "Apache"
             ]
         },
         {
@@ -153,7 +153,6 @@
             "startDate": "2023-04-03",
             "endDate": "2023-05-22",
             "highlights": [
-                "настрочил 400 LOC",
                 "ознакомил однокл.-а с программированием"
             ],
             "keywords": [
@@ -176,9 +175,6 @@
             "description": "Личный кабинет условной орг. структуры в Telegram",
             "startDate": "2022-11-23",
             "endDate": "2022-12-21",
-            "highlights": [
-                "настрочил 300 LOC"
-            ],
             "keywords": [
                 "sqlite3",
                 "grammy",
