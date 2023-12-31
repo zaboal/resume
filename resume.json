@@ -11,10 +11,9 @@
         "email": "za.boal@ya.ru",
         "phone": "8 992 195-51-27",
         "location": {
-            "address": "Фрунзенская",
-            "city": "Санкт-Петербург",
             "countryCode": "RU",
-            "postalCode": "197373"
+            "city": "Санкт-Петербург",
+            "address": "ст. м. Фрунзенская"
         },
         "profiles": [
             {
