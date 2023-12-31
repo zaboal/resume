@@ -174,8 +174,14 @@
             ]
         }
     ],
-    "references": [{
-        "name": "cxdev",
-        "reference": "норм"
-    }]
+    "references": [
+        {
+            "name": "cxdev",
+            "reference": "норм"
+        },
+        {
+            "name": "hisumia",
+            "reference": "теперь активно отклики раскидывай на вакухи"
+        }
+    ]
 }
