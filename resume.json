@@ -158,7 +158,7 @@
             ]
         },
         {
-            "name": "bot-telegram_profile и database-schema_organization",
+            "name": "<code>bot-telegram_profile</code> и database-schema_organization",
             "url": "https://git.cringetech.net/z/bot-telegram_profile",
             "description": "Бот в Telegram личного кабинета условной организационной структуры",
             "startDate": "2022-11-23",
