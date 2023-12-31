@@ -89,8 +89,20 @@
     ],
     "interests": [
         {
-            "name": "Криптовалюта",
-            "keywords": ["TON", "Polygon"]
+            "name": "Продвижение",
+            "keywords": [
+                "Social Messangers Marketing",
+                "SEO",
+                "контент-планирование"
+            ]
+        },
+        {
+            "name": "Дизайн",
+            "keywords": [
+                "Inkscape",
+                "Kdenlive",
+                "иллюстрирование текста"
+            ]
         }
     ],
     "certificates": [
